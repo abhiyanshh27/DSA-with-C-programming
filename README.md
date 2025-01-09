@@ -1,70 +1,80 @@
-Introduction
+# DSA with C Programming
 
-Welcome to the "DSA with C Programming" repository! 🚀
-This is a place for students to learn Data Structures and Algorithms (DSA) using the C programming language. Whether you're just starting or already have some knowledge, this repository will help you understand DSA with easy-to-follow examples and explanations.
+## Introduction
 
-Why Learn DSA?
+Welcome to the "DSA with C Programming" repository! 🚀  
+This is a place for students to learn **Data Structures and Algorithms (DSA)** using the C programming language. Whether you're a beginner or already know some basics, this repository will help you understand DSA with simple examples.
+
+---
+
+## Why Learn DSA?
+
 Learning DSA is important because:
+- It helps you solve problems faster and smarter.
+- It is essential for cracking coding interviews.
+- It makes your coding skills more efficient.
 
-It helps you solve problems more efficiently.
-It is essential for coding interviews at top tech companies.
-It makes your coding smarter and faster.
-By the end of this repository, you'll be able to solve problems confidently and be well-prepared for job interviews.
+---
 
-Topics Covered
-Here are the topics you will learn in this repository:
+## Topics Covered
 
-Introduction to C Programming
+1. **Introduction to C Programming**
+   - Basics of C
+   - Loops, Functions, and Pointers
 
-Basic Syntax and Structure
-Functions, Loops, and Conditions
-Pointers and Memory Management
-Arrays
+2. **Arrays**
+   - 1D and 2D Arrays
+   - Array Operations
 
-1D Arrays
-2D Arrays
-How to work with Arrays
-Linked Lists
+3. **Linked Lists**
+   - Singly Linked List
+   - Doubly Linked List
+   - Circular Linked List
 
-Singly Linked List
-Doubly Linked List
-Circular Linked List
-Stacks and Queues
+4. **Stacks and Queues**
+   - Stack Operations
+   - Queue Operations
 
-What is a Stack and how to use it
-What is a Queue and how to use it
-Where and when to use Stacks and Queues
-Trees
+5. **Trees**
+   - Binary Trees
+   - Binary Search Trees
+   - Tree Traversals
 
-Binary Trees
-Binary Search Trees
-How to Traverse Trees
-Graphs
+6. **Graphs**
+   - Graph Representation
+   - DFS and BFS
 
-How to represent a Graph
-Depth First Search (DFS)
-Breadth First Search (BFS)
-Sorting Algorithms
+7. **Sorting Algorithms**
+   - Bubble Sort, Selection Sort
+   - Merge Sort, Quick Sort
 
-Bubble Sort, Selection Sort, Insertion Sort
-Merge Sort, Quick Sort
-How to analyze the speed of Sorting Algorithms
-Searching Algorithms
+8. **Searching Algorithms**
+   - Linear Search
+   - Binary Search
 
-Linear Search
-Binary Search
-Dynamic Programming
+9. **Dynamic Programming**
+   - Basics of DP
+   - Solving Problems
 
-Introduction to Dynamic Programming
-Solving problems using DP
-Complexity Analysis
+10. **Complexity Analysis**
+    - Time and Space Complexity
+    - Big O Notation
 
-Time and Space Complexity
-Big O Notation
-How to Contribute
-We welcome contributions!
-If you want to add something, just fork the repository and send a pull request. You can help by:
+---
 
-Adding new algorithms or data structures
-Fixing issues in the code
-Improving explanations or documentation
+## How to Contribute
+
+We welcome contributions!  
+To contribute:
+1. Fork the repository.
+2. Add your changes.
+3. Create a pull request.
+
+---
+
+## Get Started
+
+Clone this repository to start learning:
+
+```bash
+git clone https://github.com/abhiyanshh27/DSA-with-C-programming.git
